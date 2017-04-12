@@ -12,6 +12,6 @@ while k <= 20:
         b = k
         if(k % 2==0):
          num.append(k)
-print("Sum of Evenly Fabonacci series:\n"+str(sum(num)))
+print("Sum of Evenly Fabonacci series:\n"+str(sum(num))) 
 
 
